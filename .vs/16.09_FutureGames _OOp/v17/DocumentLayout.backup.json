@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|c:\\users\\f\u0131ratkocabacak\\16.09_futuregames _oop\\assets\\encapsulationsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\encapsulationsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnCapsulationsExample.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\EnCapsulationsExample.cs",
+              "RelativeDocumentMoniker": "Assets\\EnCapsulationsExample.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\EnCapsulationsExample.cs*",
+              "RelativeToolTip": "Assets\\EnCapsulationsExample.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:07:02.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
