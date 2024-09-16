@@ -60,7 +60,24 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.44f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\EnCapsulationsExample.cs" />
+    <Compile Include="Assets\Abstraction\Player.cs" />
+    <Compile Include="Assets\Interface\InterfaceExample.cs" />
+    <Compile Include="Assets\Interface\CatInterface.cs" />
+    <Compile Include="Assets\Inheritance\InheritanceExample.cs" />
+    <Compile Include="Assets\Abstraction\Character.cs" />
+    <Compile Include="Assets\Inheritance\Animal.cs" />
+    <Compile Include="Assets\Abstraction\AbstractionGame.cs" />
+    <Compile Include="Assets\Polmorphism\PolmoBird.cs" />
+    <Compile Include="Assets\Polmorphism\PolmoAnimal.cs" />
+    <Compile Include="Assets\Interface\DogInterface.cs" />
+    <Compile Include="Assets\Polmorphism\PolmoDog.cs" />
+    <Compile Include="Assets\Encapsulation\EnCapsulationsExample.cs" />
+    <Compile Include="Assets\Polmorphism\PolmoCat.cs" />
+    <Compile Include="Assets\Inheritance\Cat.cs" />
+    <Compile Include="Assets\Interface\IAnimal.cs" />
+    <Compile Include="Assets\Inheritance\Dog.cs" />
+    <Compile Include="Assets\Polmorphism\PolymorphismExample.cs" />
+    <Compile Include="Assets\Abstraction\Enemy.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

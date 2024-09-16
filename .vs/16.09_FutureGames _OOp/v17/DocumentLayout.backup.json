@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|c:\\users\\f\u0131ratkocabacak\\16.09_futuregames _oop\\assets\\encapsulationsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\encapsulationsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|c:\\users\\f\u0131ratkocabacak\\16.09_futuregames _oop\\assets\\polmorphism\\polymorphismexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\polmorphism\\polymorphismexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|c:\\users\\f\u0131ratkocabacak\\16.09_futuregames _oop\\assets\\polmorphism\\polmobird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\polmorphism\\polmobird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|c:\\users\\f\u0131ratkocabacak\\16.09_futuregames _oop\\assets\\polmorphism\\polmocat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\polmorphism\\polmocat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|c:\\users\\f\u0131ratkocabacak\\16.09_futuregames _oop\\assets\\polmorphism\\polmodog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\polmorphism\\polmodog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|c:\\users\\f\u0131ratkocabacak\\16.09_futuregames _oop\\assets\\polmorphism\\polmoanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\polmorphism\\polmoanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|c:\\users\\f\u0131ratkocabacak\\16.09_futuregames _oop\\assets\\interface\\catinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\interface\\catinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\assets\\interface\\interfaceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\interface\\interfaceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\assets\\inheritance\\inheritanceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\inheritance\\inheritanceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\assets\\interface\\doginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\interface\\doginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\assets\\interface\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\interface\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\assets\\inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\assets\\inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\assets\\inheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59073C8-C7E8-FAB9-5C83-B9FA76FD75B6}|Assembly-CSharp.csproj|solutionrelative:assets\\inheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\AbstractionGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AbstractionGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\EnCapsulationsExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\EnCapsulationsExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +82,228 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolmoBird.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolmoBird.cs",
+              "RelativeDocumentMoniker": "Assets\\Polmorphism\\PolmoBird.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolmoBird.cs*",
+              "RelativeToolTip": "Assets\\Polmorphism\\PolmoBird.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:42:34.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolmoCat.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolmoCat.cs",
+              "RelativeDocumentMoniker": "Assets\\Polmorphism\\PolmoCat.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolmoCat.cs*",
+              "RelativeToolTip": "Assets\\Polmorphism\\PolmoCat.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:42:12.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolmoDog.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolmoDog.cs",
+              "RelativeDocumentMoniker": "Assets\\Polmorphism\\PolmoDog.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolmoDog.cs*",
+              "RelativeToolTip": "Assets\\Polmorphism\\PolmoDog.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:41:52.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolmoAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolmoAnimal.cs",
+              "RelativeDocumentMoniker": "Assets\\Polmorphism\\PolmoAnimal.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolmoAnimal.cs",
+              "RelativeToolTip": "Assets\\Polmorphism\\PolmoAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:41:02.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PolymorphismExample.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolymorphismExample.cs",
+              "RelativeDocumentMoniker": "Assets\\Polmorphism\\PolymorphismExample.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Polmorphism\\PolymorphismExample.cs*",
+              "RelativeToolTip": "Assets\\Polmorphism\\PolymorphismExample.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:40:56.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterfaceExample.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Interface\\InterfaceExample.cs",
+              "RelativeDocumentMoniker": "Assets\\Interface\\InterfaceExample.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Interface\\InterfaceExample.cs",
+              "RelativeToolTip": "Assets\\Interface\\InterfaceExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:36:33.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatInterface.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Interface\\CatInterface.cs",
+              "RelativeDocumentMoniker": "Assets\\Interface\\CatInterface.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Interface\\CatInterface.cs",
+              "RelativeToolTip": "Assets\\Interface\\CatInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:34:53.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DogInterface.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Interface\\DogInterface.cs",
+              "RelativeDocumentMoniker": "Assets\\Interface\\DogInterface.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Interface\\DogInterface.cs",
+              "RelativeToolTip": "Assets\\Interface\\DogInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:32:02.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Interface\\IAnimal.cs",
+              "RelativeDocumentMoniker": "Assets\\Interface\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Interface\\IAnimal.cs",
+              "RelativeToolTip": "Assets\\Interface\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:28:50.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InheritanceExample.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Inheritance\\InheritanceExample.cs",
+              "RelativeDocumentMoniker": "Assets\\Inheritance\\InheritanceExample.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Inheritance\\InheritanceExample.cs",
+              "RelativeToolTip": "Assets\\Inheritance\\InheritanceExample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:13:48.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Inheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "Assets\\Inheritance\\Dog.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Inheritance\\Dog.cs",
+              "RelativeToolTip": "Assets\\Inheritance\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:13:04.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Inheritance\\Cat.cs",
+              "RelativeDocumentMoniker": "Assets\\Inheritance\\Cat.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Inheritance\\Cat.cs",
+              "RelativeToolTip": "Assets\\Inheritance\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:12:47.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Inheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "Assets\\Inheritance\\Animal.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Inheritance\\Animal.cs",
+              "RelativeToolTip": "Assets\\Inheritance\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:10:47.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AbstractionGame.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\AbstractionGame.cs",
+              "RelativeDocumentMoniker": "Assets\\AbstractionGame.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\AbstractionGame.cs",
+              "RelativeToolTip": "Assets\\AbstractionGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:53:13.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:51:51.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:49:22.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Character.cs",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\Character.cs",
+              "RelativeToolTip": "Assets\\Character.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:44:44.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "EnCapsulationsExample.cs",
               "DocumentMoniker": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\EnCapsulationsExample.cs",
               "RelativeDocumentMoniker": "Assets\\EnCapsulationsExample.cs",
-              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\EnCapsulationsExample.cs*",
-              "RelativeToolTip": "Assets\\EnCapsulationsExample.cs*",
+              "ToolTip": "C:\\Users\\F\u0131ratKocabacak\\16.09_FutureGames _OOp\\Assets\\EnCapsulationsExample.cs",
+              "RelativeToolTip": "Assets\\EnCapsulationsExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T11:07:02.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T11:07:02.072Z"
             }
           ]
         }
